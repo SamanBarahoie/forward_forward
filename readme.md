@@ -1,3 +1,8 @@
+# Forward-Forward Neural Network on MNIST
+
+<p align="center">
+  <img src="ff_diagram.png" width="600"/>
+</p>
 
 
 ## 🧠 Forward-Forward Neural Network on MNIST (Made Simple)
@@ -91,5 +96,3 @@ With just 5 epochs of training, we reach **93% accuracy** — not bad for a mode
 - Try better ways of creating negative samples
 
 ---
-
-Let me know if you'd like a version of this written directly into your `README.md` file!
